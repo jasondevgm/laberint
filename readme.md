@@ -2,6 +2,8 @@
 
 Laberint is a terminal-based maze game where the player navigates through different mazes to reach the goal. The game includes various features such as warps, cheese for extra moves, and a timer to track the duration of the game.
 
+![Laberint!](laberint.gif "Laberint")
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
